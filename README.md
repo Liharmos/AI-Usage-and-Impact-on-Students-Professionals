@@ -35,18 +35,18 @@ The main objectives of this project are to:
 
 **Dataset source:** Kaggle
 
-*Dataset URL: To be added.*
+*Dataset URL: https://www.kaggle.com/datasets/eishatuzzuhra/ai-usage-and-impact-on-students-and-professionals/data*
 
 ## Tools and Technologies
 
 The following tools and libraries were used in this project:
 
-- **Python** — Core programming language for data analysis.
-- **Pandas** — Data manipulation, cleaning, and analysis.
-- **NumPy** — Numerical operations and calculations.
-- **Matplotlib** — Data visualization and chart creation.
-- **Seaborn** — Statistical data visualization.
-- **Jupyter Notebook** — Interactive environment for writing and executing analysis code.
+- **Python** : Core programming language for data analysis.
+- **Pandas** : Data manipulation, cleaning, and analysis.
+- **NumPy** : Numerical operations and calculations.
+- **Matplotlib** : Data visualization and chart creation.
+- **Seaborn** : Statistical data visualization.
+- **Jupyter Notebook** : Interactive environment for writing and executing analysis code.
 
 ## Analysis Performed
 
@@ -54,16 +54,16 @@ The analysis explored 10 research questions related to AI usage and its impact o
 
 The main areas of investigation included:
 
-1. **AI Usage and Productivity** — Exploring the relationship between AI usage and reported productivity.
-2. **Time Saved Through AI** — Examining weekly time savings associated with AI tools.
-3. **AI Tool Performance** — Comparing the reported performance of different AI tools.
-4. **AI Tool Popularity** — Identifying the tools used by the largest number of respondents.
-5. **AI Cost Comparison** — Comparing the monthly costs of different AI tools.
-6. **AI Usage During Work or Study** — Investigating how AI usage fits into users' daily routines.
-7. **Cost-Effectiveness** — Evaluating AI tools based on their costs and reported benefits.
-8. **User Satisfaction** — Exploring users' satisfaction with their AI experiences.
-9. **Accuracy and Satisfaction** — Investigating whether perceived AI accuracy aligns with user satisfaction.
-10. **Recommendation Behavior** — Exploring factors associated with users' willingness to recommend AI tools.
+1. **AI Usage and Productivity** : Exploring the relationship between AI usage and reported productivity.
+2. **Time Saved Through AI** : Examining weekly time savings associated with AI tools.
+3. **AI Tool Performance** : Comparing the reported performance of different AI tools.
+4. **AI Tool Popularity** : Identifying the tools used by the largest number of respondents.
+5. **AI Cost Comparison** : Comparing the monthly costs of different AI tools.
+6. **AI Usage During Work or Study** : Investigating how AI usage fits into users' daily routines.
+7. **Cost-Effectiveness** : Evaluating AI tools based on their costs and reported benefits.
+8. **User Satisfaction** : Exploring users' satisfaction with their AI experiences.
+9. **Accuracy and Satisfaction** : Investigating whether perceived AI accuracy aligns with user satisfaction.
+10. **Recommendation Behavior** : Exploring factors associated with users' willingness to recommend AI tools.
 
 ## Skills Practiced
 
